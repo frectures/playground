@@ -1,4 +1,4 @@
-Java ist eine tolle Programmiersprache.
+Kotlin ist eine tolle Programmiersprache.
 
 Heute gabs zum Frühstück Buchweizengrütze mit abgelaufener Schokolade drin.
 
