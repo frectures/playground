@@ -1,4 +1,4 @@
-TypeScript ist eine tolle Programmiersprache.
+TypeScript und JavaScript sind tolle Programmiersprachen.
 
 Heute gabs zum Frühstück Buchweizengrütze mit abgelaufener Schokolade drin.
 
